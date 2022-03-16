@@ -7,5 +7,6 @@ iclass addition
                 num2=40;
 		res=num1+num2;
 		system.out.println("..");
+		hiiiii
 	}
 }
